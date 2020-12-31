@@ -84,6 +84,10 @@ p{
   margin-bottom: 20px;
 }
 
+.indent {
+  text-indent: 40px;
+}
+
 .column .headline {
   text-align: center;
   line-height: normal;
@@ -169,3 +173,5 @@ figure img {
   display: block;
   margin: 0 auto;
 }
+
+
