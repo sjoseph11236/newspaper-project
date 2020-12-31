@@ -1,0 +1,23 @@
+{
+  "name": "helloWorld",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/sjoseph11236/newspaper-project",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sjoseph11236/newspaper-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sjoseph11236/newspaper-project/issues"
+  },
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
